@@ -1,1 +1,0 @@
-# polarizado-ploteo-ejemplo.html.
